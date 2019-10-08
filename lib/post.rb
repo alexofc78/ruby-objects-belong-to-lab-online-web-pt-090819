@@ -7,4 +7,6 @@ class Post
 end
 
 post = Post.new("Post")
-post.author
+
+post.author = "name"
+
